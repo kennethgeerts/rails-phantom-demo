@@ -1,0 +1,5 @@
+<div id="structure"></div>
+
+<%= javascript_tag do %>
+  renderStructure(<%= raw @structure.to_json %>)
+<% end %>
