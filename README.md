@@ -8,6 +8,6 @@
 
 ## Routes
 
-- `/structures/foo`
-- `/structures/foo.json`
-- `/structures/foo.png`
+- `https://rails-phantom-demo.herokuapp.com/structures/foo`
+- `https://rails-phantom-demo.herokuapp.com/structures/foo.json`
+- `https://rails-phantom-demo.herokuapp.com/structures/foo.png`
